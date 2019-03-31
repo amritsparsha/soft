@@ -1,0 +1,40 @@
+.featured-image {
+     height: 150px;
+ }
+.feature-home
+{
+    width: 360px;
+    height: 187px;
+}
+
+
+ul li.actives a {
+    color: #F6801E !important;
+}
+
+.product-details h3
+{
+    color: #F6801E;
+}
+
+.yellow
+{
+   color:  #f6801e;
+}
+
+.back_cart {
+    margin: 15px 71px 0px 0px;
+}
+
+.btn-info-color
+{
+    background:#5BBCEC !important;
+}
+
+#reviews ul li {
+    color: #f6801e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding-right: 15px;
+}
+

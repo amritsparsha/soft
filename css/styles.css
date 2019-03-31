@@ -1,0 +1,220 @@
+.featured-image {
+     height: 150px;
+ }
+.feature-home
+{
+    width: 360px;
+    height: 187px;
+}
+
+
+ul li.actives a {
+    color: #F6801E !important;
+}
+
+.product-details h3
+{
+    color: #F6801E;
+}
+
+.yellow
+{
+   color:  #f6801e;
+}
+
+.back_cart {
+    margin: 15px 71px 0px 0px;
+}
+
+.btn-info-color
+{
+    background:#5BBCEC !important;
+}
+
+#reviews ul li {
+    color: #f6801e;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    padding-right: 15px;
+}
+.main-menucontainer {
+    margin: 0 auto;
+    max-width: 1600px;
+}
+.carousel-fade .carousel-inner .item {
+    opacity: 0;
+    -webkit-transition-property: opacity;
+    -moz-transition-property: opacity;
+    -o-transition-property: opacity;
+    transition-property: opacity;
+}
+.carousel-fade .carousel-inner .active {
+    opacity: 1;
+}
+.carousel-fade .carousel-inner .active.left,
+.carousel-fade .carousel-inner .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+.carousel-fade .carousel-inner .next.left,
+.carousel-fade .carousel-inner .prev.right {
+    opacity: 1;
+}
+.carousel-fade .carousel-control {
+    z-index: 2;
+}
+.epuja-container {
+
+    bottom: 27%;
+    left: 0;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
+
+#custom-search-input{
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;   letter-spacing: 1px;
+    box-shadow: none;
+    border: 0;
+    color: #ffffff;
+    padding: 0 8px 0 10px;
+
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+.epuja-container h1 {
+    color: #fff;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.epuja-container > h2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 1px;
+     padding: 0 0 9px 0;
+}
+.cart-num {
+    background: #F70700 none repeat scroll 0 0;
+    border-radius: 50px;
+    color: #fff;
+    display: inline-block;
+    font-weight: bold;
+    height: 25px;
+    text-align: center;
+    width: 25px;
+}
+.carousel-inner p a, .news-wrapper p a {
+    color: #e95642;
+    font-size: 13px;
+    font-style: italic;
+    letter-spacing: 1px;
+    padding: 0 0 0 8px;
+}
+
+
+.carousel-inner p a {
+    display: block;
+    margin: 0;
+    padding: 0 !important;
+}
+.testimonials .content-header > h3 {
+    margin: 10px 0;
+}
+.testimonials{ background: url(../images/icons/ombg.jpg); }
+.no-arrow li a {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
+    padding: 2px 0 3px !important;
+}
+.featured-puja-footer li {
+    display: inline-block;
+    float: left;
+    width: 50%;
+}
+.content-nav
+{
+    border-bottom: 1px solid #ffffff !important;
+}
+
+.preinform li {
+    display: inline;
+    padding: 0 25px 0 2px;
+}
+
+section.inner-content {
+    padding: 77px 0px 21px 0px;
+}
+.cart_description p {
+    padding: 0 0 0 33px;
+}
+
+ul.services li {
+    padding: 8px 0 0 0;
+}
+
+.paypasa-icon {
+    padding: 9px 0 0;
+}
+
+.country_error {
+    color: #a94442;
+    padding: 3px 0 0 11px;
+}
+
+.city_error {
+    color: #a94442;
+    padding: 3px 0 0 11px;
+}
+.book_date_error{
+    color: #a94442;
+}
+.payment_result {
+    padding: 86px 0 14px 6px;
+}
+.tool{
+    position: absolute;
+    right: 6px;
+    top: 125px;
+    color: #fff;
+    font-size: 22px;
+}
+
+ul#Dropdown1 {
+    width: 100%;
+    margin: 2px 0px 4px -1px !important;
+    border-radius: 1px;
+}
+
+.npay {
+    max-height: 77px;
+}
+
+.login-form form select{
+    background: #f0f0e9 none repeat scroll 0 0;
+}
